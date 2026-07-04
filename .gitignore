@@ -1,0 +1,26 @@
+# Ignore everything
+*
+
+# But keep Git ignore file itself
+!.gitignore
+
+# Keep MATLAB source files
+!adjacency_laplacian.m
+!bump.m
+!formation_targets.m
+!formation_term.m
+!get_lambda2.m
+!init_condition.m
+!main.m
+!navigator.m
+!neighbors.m
+!params.m
+!plot_pack_like_paper.m
+!potential_term.m
+!simulate.m
+!tracking_term.m
+!action_f.m
+
+# Ignore results folder
+!results/
+results/*
