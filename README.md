@@ -270,6 +270,4 @@ badTimes.mat
 
 The initial velocities are randomized using a fixed random seed defined in `params.m`, so the simulation is reproducible unless the parameters are changed.
 
-Generated result folders are timestamped automatically.
----
 
